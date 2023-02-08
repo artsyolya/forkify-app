@@ -1,4 +1,4 @@
-# Forkify Web Application
+# Forkify - A Recipe Web Application
 
 A web application that allows a user to search and display recipes from the Forkify API, as well as bookmark and add new recipes.
 
